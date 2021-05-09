@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 97a82f4f229284a4d9902c6f7b1db26d
+timeCreated: 1518805244
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Shoelaces
+  fontNames:
+  - Shoelaces
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8b65a24c328883e4ba1ddd48d165a98a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ad8ab0bb98210f4439d52427ad62b884
+timeCreated: 1518805244
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Shoelaces FX
+  fontNames:
+  - Shoelaces FX
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 403f345383240004db765dd50703a771, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733331 67.733331"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Game Icons.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="149.94954"
+     inkscape:cy="102.89915"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2304"
+     inkscape:window-height="1202"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-229.26667)">
+    <rect
+       id="rect3699"
+       width="63.385788"
+       height="63.385788"
+       x="2.1737711"
+       y="231.44046"
+       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:4.34754229;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.64583325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.70000005;stroke-dasharray:none"
+       id="path4532"
+       sodipodi:cx="29.503502"
+       sodipodi:cy="260.94061"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="26.286335"
+       sodipodi:argument="-17.242804"
+       sodipodi:t0="0"
+       d="m 29.503502,260.94061 c -0.04738,1.31711 -1.798804,0.58595 -2.189112,-0.0787 -1.057712,-1.80128 0.63111,-3.82061 2.346603,-4.29948 3.068615,-0.85658 5.90001,1.69945 6.409845,4.61446 0.748203,4.27789 -2.773588,8.01696 -6.882319,8.52021 -5.476292,0.67075 -10.148477,-3.84864 -10.630577,-9.15018 -0.606674,-6.67144 4.92385,-12.28722 11.418034,-12.74094 7.865327,-0.54951 14.430113,5.9991 14.85131,13.68589 0.496367,9.05863 -7.074351,16.57559 -15.95375,16.96168 -10.251617,0.44575 -18.722789,-8.14962 -19.0720428,-18.22161 -0.3968447,-11.44444 9.2248888,-20.8712 20.4894658,-21.18241 12.637153,-0.34913 23.020493,10.30017 23.292776,22.75733 0.302285,13.8298 -11.375459,25.17044 -25.025181,25.40314"
+       transform="matrix(1.096567,0,0,0.99976341,-0.88303963,0.00575993)" />
+  </g>
+</svg>
